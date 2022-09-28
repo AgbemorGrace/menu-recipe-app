@@ -1,5 +1,5 @@
 import Head from 'next/head'
-import {FaFacebookF, FaLinkedinIn, FaGoogle, FaRegEnvelope} from "react-icons/fa"
+import { FaRegEnvelope} from "react-icons/fa"
 import{MdLockOutline} from "react-icons/md"
 
 export default function Home() {
@@ -55,7 +55,7 @@ export default function Home() {
                 className='bg-gray-100 outline-none text-sm flex-1'/>
                 </div>
                 </div>
-                <a href="#" className='border-2 border-blue text-blue-500 rounded-full px-12 
+                <a href="./" className='border-2 border-blue text-blue-500 rounded-full px-12 
                 py-2 inline-block font-semibold hover:bg-blue-400 hover:text-white'>Sign Up</a>
         
               </div>

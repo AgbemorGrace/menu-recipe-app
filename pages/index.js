@@ -59,7 +59,7 @@ export default function Home() {
         <div className='border-2 w-10 border-white inline-block mb-2'></div>
         <p className='mb-10'>Don't have an account, click on the 
         <span className='text-xl'> Sign Up</span> button below to enjoy all the features of this Application🚀</p>
-        <a href="#" className='border-2 border-white rounded-full px-12 py-2 inline-block font-semibold hover:bg-white hover:text-blue-400'>Sign Up</a>
+        <a href="./Register" className='border-2 border-white rounded-full px-12 py-2 inline-block font-semibold hover:bg-white hover:text-blue-400'>Sign Up</a>
         </div>    
          {/*Sign up Section Section */}
 
